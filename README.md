@@ -335,7 +335,7 @@ Ele contempla:
 - Atributos multivalorados;
 - Entidade associativa.
 
-![Modelo Conceitual](./Modelo%20Conceitual%20-%20SISACAD.png)
+![Modelo Conceitual](./Modelagem/Modelo%20Conceitual%20-%20SISACAD.png)
 
 ---
 
@@ -351,7 +351,7 @@ Nesta etapa foram definidos:
 - Estrutura das tabelas;
 - Implementação da especialização.
 
-![Modelo Lógico](./Modelo%20Logico%20-%20SISACAD.png)
+![Modelo Lógico](./Modelagem/Modelo%20Logico%20-%20SISACAD.png)
 
 ---
 
@@ -677,7 +677,7 @@ Atualmente o projeto contém aproximadamente:
 
 ### Nathan Luiz Almeida Vieira
 
-Estudante de Engenharia de Software | Futuro Engenheiro de Dados e Desenvolvedor Backend
+Estudante de Engenharia de Software | Futuro Engenheiro de Dados
 
 ---
 
