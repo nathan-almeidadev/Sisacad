@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![Backend](https://img.shields.io/badge/Backend-Python-green)
-![BI](https://img.shields.io/badge/Future-PowerBI-orange)
+![BI](https://img.shields.io/badge/Dashboards_&_Analytics-PowerBI-orange)
 
 Este repositório contém o desenvolvimento completo do SISACAD (Sistema Acadêmico Universitário), projetado como meu primeiro projeto de portfólio durante o primeiro semestre de Engenharia de Software.
 
